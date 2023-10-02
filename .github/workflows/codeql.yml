@@ -9,7 +9,7 @@
 # the `language` matrix defined below to confirm you have the correct set of
 # supported CodeQL languages.
 #
-name: "CodeQL_Data_Engineering@KCAU#23-24"
+name: "CodeQL"
 
 on:
   push:
