@@ -96,7 +96,7 @@ with col2:
 st.subheader("Powered by Function Calling in Gemini")
 
 st.markdown(
-    "[Source Code]()   •   [Documentation](https://cloud.google.com/vertex-ai/docs/generative-ai/multimodal/function-calling)   •   [Codelab](https://codelabs.developers.google.com/codelabs/gemini-function-calling)   •   [Sample Notebook (Intro to function calling)](https://github.com/)"
+    "[Source Code](https://github.com/GDSCKCA2023-224/DATA_ENGINEERING_TRACK/tree/main/BUILD_ON_CLOUD)   •   [Documentation](https://cloud.google.com/vertex-ai/docs/generative-ai/multimodal/function-calling)   •   [Codelab](https://codelabs.developers.google.com/codelabs/gemini-function-calling)   •   [Sample Notebook (Intro to function calling)](https://github.com/)"
 )
 
 with st.expander("Sample prompts", expanded=True):
