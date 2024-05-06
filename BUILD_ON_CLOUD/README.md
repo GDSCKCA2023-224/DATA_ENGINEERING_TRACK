@@ -19,7 +19,7 @@ description and the arguments to call it with.
 
 Try using the demo app now! [https://sql-talk-r5gdynozbq-uc.a.run.app/](https://sql-talk-r5gdynozbq-uc.a.run.app/)
 
-![SQL Talk Demo App](BUILD_ON_CLOUD/sql-talk.png)
+![SQL Talk Demo App](sql-talk.png)
 
 
 ## Prerequisites
